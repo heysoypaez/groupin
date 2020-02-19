@@ -13,15 +13,13 @@
 }
 
 .call-to-action.text a {
-	background: #a91b0d;
+	background: #df144c;
 	color: white;
-	font-family: 'Bebas Neue', cursive;	
 	padding: 10px 20px;
 	font-size: 2em;
-	border-radius: 5px;
 	margin-bottom: 5px;
 }
 
 .call-to-action.text a:hover {
-	background: #ff1a04;
+	box-shadow: 3px 3px 5px gray;
 }

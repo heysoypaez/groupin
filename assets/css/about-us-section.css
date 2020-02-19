@@ -20,6 +20,10 @@
 		grid-column: 4/7;
 	}
 
+  .about-us-section {
+  	margin-top: 5%;
+  }
+
 	.about-us-section p {
 	margin-bottom: 20px;
 	line-height: 1.5;

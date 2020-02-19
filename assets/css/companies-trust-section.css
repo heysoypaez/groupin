@@ -15,6 +15,14 @@
 	text-align: center;
 }
 
+.companies-trust-section__item-2__companies {
+	background-color: white;
+	display: grid;
+	align-items: center;
+	justify-content: center;
+	justify-items: center;
+}
+
 @media screen and (min-width: 426px) {
 .companies-trust-section__item-1 {
 	grid-column: 1/7;
