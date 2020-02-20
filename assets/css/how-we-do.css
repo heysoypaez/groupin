@@ -22,9 +22,8 @@
 	}
 
 	.how-we-do-section p {
-	margin-bottom: 20px;
-	line-height: 3;
-	font-size: 18px;
+		line-height: 2;
+		font-size: 1.8em;
 	}
 }
 

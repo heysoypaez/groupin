@@ -33,6 +33,13 @@
 		grid-column: 4/7;
 		justify-self: end;
 	}
+
+	.test-your-level-section__item-1 li { 
+		font-size: 1.5em;
+		font-weight: 500;
+		margin-bottom: 5%;	
+	}
+
 }
 
 @media screen and (max-width: 425px) {
